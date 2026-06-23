@@ -18,16 +18,16 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "workflow.run"
-args = "Website"
+args = "Start application"
 
 [[workflows.workflow]]
-name = "Website"
+name = "Start application"
 author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "cd /home/runner/workspace && node server.js"
-waitForPort = 8080
+waitForPort = 3000
 
 [workflows.workflow.metadata]
 outputType = "webview"
