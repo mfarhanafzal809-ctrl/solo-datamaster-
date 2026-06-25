@@ -791,7 +791,7 @@ function renderHome() {
     </div>
 
     <footer class="footer">
-      <div class="footer-brand">DataMaster Academy</div>
+      <div class="footer-brand">Solo DataMaster Academy</div>
       <p>The Ultimate Zero-to-Architect Data Analyst Curriculum</p>
       <p style="margin-top:8px;">Built for engineers who refuse to be average.</p>
     </footer>
@@ -853,7 +853,7 @@ function renderPhasePage(id) {
     </div>
 
     <footer class="footer">
-      <div class="footer-brand">DataMaster Academy</div>
+      <div class="footer-brand">Solo DataMaster Academy</div>
       <p>Phase ${phase.id} of 10 · ${phase.tag}</p>
     </footer>
   `;
@@ -904,7 +904,7 @@ function renderProjectsPage(id) {
     </div>
 
     <footer class="footer">
-      <div class="footer-brand">DataMaster Academy</div>
+      <div class="footer-brand">Solo DataMaster Academy</div>
       <p>Phase ${phase.id} Projects · Build. Deploy. Document.</p>
     </footer>
   `;
@@ -959,7 +959,7 @@ function renderTimelinePage() {
     </div>
 
     <footer class="footer">
-      <div class="footer-brand">DataMaster Academy</div>
+      <div class="footer-brand">Solo DataMaster Academy</div>
       <p>24 Months · 4 Milestones · 10 Phases · Infinite Potential</p>
     </footer>
   `;
@@ -1001,7 +1001,7 @@ function renderStrategyPage() {
     </div>
 
     <footer class="footer">
-      <div class="footer-brand">DataMaster Academy</div>
+      <div class="footer-brand">Solo DataMaster Academy</div>
       <p>Strategy without execution is hallucination.</p>
     </footer>
   `;
@@ -1071,7 +1071,7 @@ function renderGuidePage() {
     </div>
 
     <footer class="footer">
-      <div class="footer-brand">DataMaster Academy</div>
+      <div class="footer-brand">Solo DataMaster Academy</div>
       <p>Efficient use of this curriculum will produce a Senior Data Analyst in 24 months.</p>
     </footer>
   `;
@@ -1144,7 +1144,7 @@ function renderAboutPage() {
     </div>
 
     <footer class="footer">
-      <div class="footer-brand">DataMaster Academy</div>
+      <div class="footer-brand">Solo DataMaster Academy</div>
       <p>The Ultimate Zero-to-Architect Data Analyst Curriculum</p>
       <p style="margin-top:8px;font-size:11px;">Execution begins now.</p>
     </footer>
